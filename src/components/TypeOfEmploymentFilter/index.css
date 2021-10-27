@@ -1,0 +1,14 @@
+.each-filter {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+.box-input {
+  margin-right: 10px;
+  height: 17px;
+  width: 17px;
+}
+
+.label {
+  font-size: 15px;
+}

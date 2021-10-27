@@ -1,0 +1,11 @@
+.each-skill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+}
+
+.skill-image {
+  height: 50px;
+  margin-right: 10px;
+}

@@ -1,0 +1,9 @@
+.not-found {
+  background-color: #202020;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 92vh;
+}

@@ -1,0 +1,84 @@
+.job-card {
+  background-color: #272727;
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 16px;
+  padding: 10px;
+  list-style-type: none;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.card-logo {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.card-top-section {
+  display: flex;
+  align-items: center;
+}
+
+.card-title {
+  font-size: 20px;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+.card-rating-section {
+  display: flex;
+  align-items: center;
+}
+
+.card-rating {
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.card-job-type-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.icon-name {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.icon-section-flex {
+  display: flex;
+  align-items: center;
+}
+
+.card-package {
+  color: #ffffff;
+  font-size: 17px;
+}
+
+.description-card {
+  font-size: 18px;
+}
+
+.description-text {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.line-card {
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.link-item {
+  text-decoration: none;
+  color: #ffffff;
+}
